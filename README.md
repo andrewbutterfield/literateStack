@@ -16,7 +16,7 @@ See <https://docs.haskellstack.org/en/stable/README/>. You are strongly advised 
 
 `git clone https://github.com/andrewbutterfield/literateStack.git`
 
-2. Enter the directory `literateStack'
+2. Enter the directory `literateStack`
 
 3. Give command `stack install` and wait. The first time you run this might take a while as it may install a local version of the Haskell compiler and required libraries. When it is done it will have installed a program called `litstack`.
 
